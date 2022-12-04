@@ -1,0 +1,51 @@
+p {
+    color: crimson;
+    font-size: 10px;
+    text-align: left;
+}
+ol {
+    color:rgba(0, 128, 0, 0.587);
+    font-size: 20px;
+    text-align: left;
+}
+h2 {
+    color: crimson;
+    font-size: 20px;
+    text-align: left;
+}
+h1 {
+    color: green;
+    text-align: left;
+}
+tr {
+    color: rgba(0, 0, 255, 0.576);
+    text-align: left;
+}
+
+.td1 {
+ color:rgba(128, 0, 128, 0.686);
+}
+
+.td2 {
+    color:rgba(128, 0, 128, 0.686);
+}
+
+.td3 {
+    color:rgba(128, 0, 128, 0.686);
+}
+
+.td4 {
+    color:rgba(128, 0, 128, 0.686);
+}
+
+.td5 {
+    color:rgba(128, 0, 128, 0.686);
+}
+
+.td6 {
+    color:rgba(128, 0, 128, 0.686);
+}
+
+.td7 {
+    color:rgba(128, 0, 128, 0.686);
+}
