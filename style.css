@@ -1,5 +1,5 @@
 body{
-    padding: 15px;
+    padding: 50px;
 }
 
 p {
@@ -52,4 +52,10 @@ tr {
 
 .td7 {
     color:rgba(128, 0, 128, 0.686);
+}
+
+@media screen and (max-width: 768px) {
+    body{
+        padding: 30px;
+    }
 }
